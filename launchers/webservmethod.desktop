@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=webservmethod
+Type=Application
+Comment=webservmethod
+Terminal=true
+Exec=sh -c "cd /opt/BlackGhost;./webservmethod.sh;${SHELL:-bash}"
+Icon=B-Ghost.png
+Categories=recon
+GenericName=webservmethod.sh
+
