@@ -13,3 +13,9 @@ sparooslinux@gmail.com
 www.sparoos.com
 
 if you have any issues with this package please contact me.
+================================================
+    Install
+      cd Scripts-BlackGhost-Touls-Hacking
+      sudo chmod +x *
+      sudo ./install.sh
+================================================
